@@ -1,0 +1,8 @@
+Pedro, 5,8,9
+Flavio, 9,9,8
+Jose, 9,8,8
+Rodrigo, 9,6,8
+Joao, 9,5,8
+Josefa, 9,8,8
+Rosangela, 9,6,8
+Joana, 9,5,8
